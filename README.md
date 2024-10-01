@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikas Maurya</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Web Dvelopment**
 
 - 🌱 I’m currently learning **DSA With JAVA**
 
